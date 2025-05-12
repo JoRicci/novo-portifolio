@@ -112,7 +112,7 @@ header > .interface{
 }
 
 .menu-mobile.menu_aberto{
-    width: 70%;
+    width: 50%;
 }
 
 .menu-mobile.menu_aberto ~ .overlay-menu{
@@ -164,7 +164,7 @@ header > .interface{
 /* topo-site */
 
 .topo_site{
-    padding: 40px 4%;
+    padding: 80px 4%;
     margin: 0 auto;
 }
 
@@ -215,6 +215,7 @@ header > .interface{
     box-shadow: 0px 0px 8px var(--color-gold);
     position: relative;
     animation: float 3s ease-in-out infinite alternate;
+    width: 100%;
 
 }
 
@@ -231,9 +232,8 @@ header > .interface{
 /* estilo-about */
 
 .about{
-    padding: 80px 4%;
+    padding: 100px 4%;
     margin: 0 auto;
-    box-shadow: 0 0 40px 10px #ffffff46;
 }
 
 .about .interface .flex{
@@ -391,16 +391,16 @@ header > .interface{
 }
 
 .site01{
-    background-image: url('images/imagem.jpg');
+    background-image: url('images/projeto.jpg');
 }
 
 .site02{
-    background-image: url('images/projeto01.png');
+    background-image: url('images/projeto.jpg');
     transition: 8s;
 }
 
 .site03{
-    background-image: url('images/imagem.jpg');
+    background-image: url('images/projeto.jpg');
 }
 
 .overlay{
