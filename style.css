@@ -177,7 +177,7 @@ header > .interface{
 }
 
 .topo_site_title h1{
-    font-size: 50px;
+    font-size: 70px;
     line-height:80px;
     letter-spacing: 1px;
     text-shadow: 2px 2px 4px #FFD700;
@@ -586,7 +586,8 @@ form .btn-enviar input:hover{
         
     }
     .topo_site_title h1{
-        font-size: 60px;
+        font-size: 50px;
+        margin-bottom: 25px;
     }
     .topo_site_img img{
         width: 100%;
